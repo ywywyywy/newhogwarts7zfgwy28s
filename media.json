@@ -1,0 +1,26 @@
+{
+"series": [
+{
+"title": "Новый Hogwarts",
+"season": 1,
+"episodes": [
+{
+"title": "Серия 1",
+"file": "videos/episode1.mp4"
+},
+{
+"title": "Серия 2",
+"file": "videos/episode2.mp4"
+},
+{
+"title": "Серия 3",
+"file": "videos/episode3.mp4"
+},
+{
+"title": "Серия 4",
+"file": "videos/episode4.mp4"
+}
+]
+}
+]
+}
